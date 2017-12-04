@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Option 1" />
+    <item
+        android:enabled="false"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Option 2" />
+    <item
+        android:icon="@drawable/ic_menu_send"
+        android:title="Option 3" />
+</menu>
